@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagsShop", "FishSystemUpdate\BagsShop.csproj", "{5299F2AF-EBAC-42C0-9D2D-DA3090A9A0A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{35DA1122-D445-4D22-9B5D-5055C61AE85E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2Rateb", "Setup2Rateb\Setup2Rateb.vdproj", "{A77BE613-D7A9-47A0-AD46-2B10E39069C3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2RatebProject", "Setup2RatebProject\Setup2RatebProject.vdproj", "{31AE310E-426A-4BA9-846E-F9EFCD26D98C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2R", "Setup2R\Setup2R.vdproj", "{6C0340FE-29DB-42E6-B772-12F6D93D8C8E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RatebProject", "RatebProject\RatebProject.vdproj", "{B5515643-66D7-4520-BDD8-C77BFBCB7B95}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FreeTrailRateb", "FreeTrailRateb\FreeTrailRateb.vdproj", "{FD1F7FCC-9EF5-4BD0-AA61-4C0F899903AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5299F2AF-EBAC-42C0-9D2D-DA3090A9A0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5299F2AF-EBAC-42C0-9D2D-DA3090A9A0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5299F2AF-EBAC-42C0-9D2D-DA3090A9A0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5299F2AF-EBAC-42C0-9D2D-DA3090A9A0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DA1122-D445-4D22-9B5D-5055C61AE85E}.Debug|Any CPU.ActiveCfg = Debug
+		{35DA1122-D445-4D22-9B5D-5055C61AE85E}.Release|Any CPU.ActiveCfg = Release
+		{A77BE613-D7A9-47A0-AD46-2B10E39069C3}.Debug|Any CPU.ActiveCfg = Debug
+		{A77BE613-D7A9-47A0-AD46-2B10E39069C3}.Release|Any CPU.ActiveCfg = Release
+		{31AE310E-426A-4BA9-846E-F9EFCD26D98C}.Debug|Any CPU.ActiveCfg = Debug
+		{31AE310E-426A-4BA9-846E-F9EFCD26D98C}.Release|Any CPU.ActiveCfg = Release
+		{6C0340FE-29DB-42E6-B772-12F6D93D8C8E}.Debug|Any CPU.ActiveCfg = Debug
+		{6C0340FE-29DB-42E6-B772-12F6D93D8C8E}.Release|Any CPU.ActiveCfg = Release
+		{B5515643-66D7-4520-BDD8-C77BFBCB7B95}.Debug|Any CPU.ActiveCfg = Debug
+		{B5515643-66D7-4520-BDD8-C77BFBCB7B95}.Release|Any CPU.ActiveCfg = Release
+		{FD1F7FCC-9EF5-4BD0-AA61-4C0F899903AB}.Debug|Any CPU.ActiveCfg = Debug
+		{FD1F7FCC-9EF5-4BD0-AA61-4C0F899903AB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56CFA47-F79A-4977-8915-725700676154}
+	EndGlobalSection
+EndGlobal
